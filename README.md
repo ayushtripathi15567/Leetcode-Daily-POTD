@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
