@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -83,17 +85,24 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Number Theory
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
