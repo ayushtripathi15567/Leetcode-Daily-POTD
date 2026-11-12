@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
