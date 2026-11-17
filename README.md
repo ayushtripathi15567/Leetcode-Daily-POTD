@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## String
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
