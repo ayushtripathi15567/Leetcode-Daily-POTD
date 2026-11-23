@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -118,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushtripathi15567/Leetcode-Daily-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
